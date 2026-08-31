@@ -1,0 +1,1 @@
+This is where the Queen of the Realm resides. Players 
