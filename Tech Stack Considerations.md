@@ -8,9 +8,9 @@ This document is written during the **Pre-production phase**. We are not committ
 
 ---
 
-## Bevy vs Godot 4
+## Bevy vs Godot 4 (C# + Chickensoft)
 
-Both engines are under active consideration for Terrible Knights. Below is a comparison grounded in the specific demands of this game.
+Both engines are under active consideration for Terrible Knights. The Godot side of this comparison assumes **C# with the Chickensoft framework** — our preferred Godot stack across projects. Below is a comparison grounded in the specific demands of this game.
 
 ### Bevy (Rust)
 
@@ -28,34 +28,46 @@ Both engines are under active consideration for Terrible Knights. Below is a com
 
 ---
 
-### Godot 4
+### Godot 4 (C# + Chickensoft)
+
+[Chickensoft](https://chickensoft.games) is an open-source framework built on top of Godot 4 + C# that provides structured architecture patterns: dependency injection (`AutoInject`), hierarchical state machines (`LogicBlocks`), testing infrastructure, and project scaffolding. It's our preferred Godot stack.
 
 **Pros**
 - **Visual editor.** Scene-based workflow makes level design, UI, and iteration much faster — important for a new studio building confidence.
 - **Built-in multiplayer.** Godot 4's high-level multiplayer API is mature and well-documented. Co-op networking is a solved problem out of the box.
-- **Larger ecosystem of tutorials and game-specific patterns.** Easier to find answers to common game dev problems (FPS controllers, navigation agents, physics).
-- **Faster prototyping.** GDScript in particular allows rapid iteration without compile times.
+- **C# performance.** Far faster than GDScript. The horde and simulation performance concerns that apply to vanilla Godot are largely eliminated here.
+- **Chickensoft's `LogicBlocks`** are a strong fit for this game's stateful systems — village states, the day/night cycle, supply chain state management, and World Event handling all map naturally to hierarchical state machines.
+- **Structured architecture.** Chickensoft's patterns (`AutoInject`, node lifecycle management) impose discipline on complex systems, reducing the risk of the codebase becoming unwieldy as scope grows.
 - Low-poly 3D is well supported and straightforward to implement.
 
 **Cons / Risks**
-- **Performance ceiling.** GDScript is slower than Rust. For hundreds of horde entities plus simulation logic, GDScript may require C# or GDExtension (Rust/C++) to hit performance targets. This adds complexity.
-- **ECS is not native.** Mass entity processing is less elegant in Godot's node/scene model. Workarounds exist but require discipline.
-- **Less architectural guidance** for the simulation layer (supply chains, village state, outcome prediction) — these systems will need careful design to avoid performance pitfalls in GDScript.
+- **ECS is not native.** Mass entity processing is less elegant in Godot's node/scene model. C# + disciplined patterns help, but it's not the same as a true ECS. The horde mechanic may require careful design to avoid node overhead at scale.
+- **Smaller community within a community.** Godot tutorials are plentiful; Chickensoft-specific resources are fewer. The team will be charting more of their own path.
+- **More upfront setup.** Chickensoft's tooling adds initial complexity compared to dropping into GDScript. Pays off at scale, but has a learning curve.
+- **Compile times.** C# loses GDScript's instant iteration. Not severe, but notable vs. scripted workflows.
 
 ---
 
 ## Summary
 
-| Concern | Bevy | Godot 4 |
+| Concern | Bevy | Godot 4 (C# + Chickensoft) |
 |---|---|---|
-| Horde performance | Strong | Manageable (may need C#/GDExtension) |
-| Village simulation | Strong | Manageable |
+| Horde performance | Strong (ECS) | Good (C# eliminates GDScript ceiling; node overhead at scale still a watch item) |
+| Village simulation | Strong | Good (LogicBlocks a natural fit) |
 | Multiplayer co-op | Risky (community crates) | Strong (first-party) |
 | Level design iteration | Slow (no editor) | Fast (visual editor) |
 | FPS gameplay | Buildable (community crates) | Well-supported |
-| Learning curve (new studio) | Steeper | Gentler |
+| Stateful systems architecture | ECS native | Strong (Chickensoft LogicBlocks) |
+| Learning curve (new studio) | Steeper | Moderate (Godot + C# + Chickensoft layer) |
 | Low-poly rendering | Fine | Fine |
 
-Both engines can ship this game. The decision will likely come down to **team Rust fluency** and **how painful the lack of a visual editor feels during prototyping**. These are the two questions to answer when we enter the Prototyping phase.
+Both engines can ship this game. With C# + Chickensoft, Godot closes the performance gap significantly and gains architectural structure that suits this game's complexity. The decision will likely come down to **team Rust fluency** and **how painful the lack of a visual editor feels during prototyping**. These are the two questions to answer when we enter the Prototyping phase.
 
-From Lead Designer: Ideally, I'd like this to be one of the game projects we attempt to build out with Bevy, I'd love to see what we as a group could accomplish with that Game Engine.
+From Lead Designer: Ideally, I'd like this to be one of the game projects we attempt to build out with Bevy, I'd love to see what we as a group could accomplish with that Game Engine. But I understand the maturity of it isn't quite there. The only two things that really hit me are
+1. It still needs a visual builder for non-generated scenes (e.g. building out the Main City for example). 
+	1. This is being worked on, and if Sovereign Pirate is our first studio production, this may be a thing by the time we are prototyping this project
+2. Multiplayer support
+	1. This isn't a total no go, again, there are solutions out there, but we would need to test and vet them to determine what we can use and what we may need to build around that choice to make it all work.
+
+
+I think Bevy DOES potentially give us more room to scale the chaos for Horde mode in night scenes, but admittedly, depending on the networking solution for multiplayer, that could pose as a bottleneck. Again things we'd have to discover during a prototype phase.
