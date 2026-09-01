@@ -37,5 +37,5 @@ There will also be a small fort of Realm Mobs where the old Lord Manor used to b
 ## Economics
 
 Buildings generate wealth
-A portion is sent to the Main City, this counts towards the Kingdoms Wealth. The more villages you have and the more they produce, the more money the Kingdom makes.
+A portion is sent to the Main City, this counts towards the Queendoms Wealth. The more villages you have and the more they produce, the more money the Queendom makes.
 The Rest is stored in the Lord's Manor and counts towards the Village's wealth

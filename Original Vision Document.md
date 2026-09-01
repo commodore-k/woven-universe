@@ -80,7 +80,7 @@ Game:
 
 - Player starts game
 - Player loads into the lobby world (i.e. The main city, which, in lore terms, is where caravans ship out from to the village players are doing a run in)
-- To start a game, a player goes to the king to propose a place where it would be good to expand the kingdom to.
+- To start a game, a player goes to the king to propose a place where it would be good to expand the queendom to.
 
 - The player is then shown the world map cut up into small counties, some are locked.
 
