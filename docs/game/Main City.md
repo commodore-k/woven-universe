@@ -3,7 +3,7 @@ The Main City acts as an in world main menu and lobby. Think Deep Rock Galactic.
 When a [Player](Player.md) boots up the game, this is the map they load into. Players can invite friends who can join into the host's Main City. See [Networking](Networking.md) for how many friends can join.
 
 
-In this location, players can hang out and do nothing or goof off, or they can visit one of the following buildings in town. In the Main City, it is always Day. Time essentially pauses throughout the Realm when players are in the Main City.
+In this location, players can hang out and do nothing or goof off, or they can visit one of the following buildings in town.
 
 
 Talk with NPCs, throughout the city to find [Realm Quests](<Realm Quests.md>).
