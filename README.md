@@ -1,3 +1,11 @@
+---
+lead-game-designer: Kyle Ferguson
+co-game-designers:
+  - Nils Bifano
+  - Thomas Evans
+---
+
+
 Terrible Knights is a concept for a video game that is the property of Metal Cactus Studios.
 
-[[Original Vision Document]] is a 100% human generated vision document that is more or less the ramblings of a game designer trying to get all the ideas out of his head and onto paper. Its format isn't perfect. Any changes to this document cannot be made by AI, only humans should touch this vision document. It acts as the primal mover for the initial fill out of the `docs/game`. After which point it will mostly act as a relic, since from there, both Humans and AI Agents will develop the game lore and mechanics found in `docs/game`.
+[[Original Vision Document]]: This is the primal mover, the original idea document that spawned the buildout of this game concept.
