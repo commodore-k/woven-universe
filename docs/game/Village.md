@@ -1,7 +1,7 @@
 ---
 type: location
 related:
-  - "[[World Map]]"
+  - "[World Map](<World Map.md>)"
 aliases:
   - Settlement
 ---
@@ -9,21 +9,21 @@ aliases:
 A Village is a concrete place on the World Map that players can go to. They are the location at which the majority of gameplay takes place.
 
 ## World Map Relation
-on the [[World Map]], the Village exists within a single [[County]]. The following is defined by game developers, not generated:
+on the [World Map](<World Map.md>), the Village exists within a single [County](County.md). The following is defined by game developers, not generated:
 - The position in the county, and thus in the world map that it occupies.
 - The Biome of the Village is determined by its position on the world map.
-- The position in the world map + the biome determines the types of [[The Terror|Terror]] that the players can expect to encounter here.
+- The position in the world map + the biome determines the types of [Terror](<The Terror.md>) that the players can expect to encounter here.
 	- This information is not just given to the player. The player has to encounter a certain terror to unlock that metadata being displayed in the world map when this village is selected for inspection.
 
 ## Generation
 
-The Village is 1:1 with the World Map scaling, however, the world map doesn't show a detailed map of the village. The World Map is a coarse grain map of the World. And players cannot traverse it. The map of a Village is randomly generated once when a player performs the [[Establish A Settlement]] action. From then on, that village map for that player's Queendom instance will always remain.
+The Village is 1:1 with the World Map scaling, however, the world map doesn't show a detailed map of the village. The World Map is a coarse grain map of the World. And players cannot traverse it. The map of a Village is randomly generated once when a player performs the [Establish A Settlement](<Establish A Settlement.md>) action. From then on, that village map for that player's Queendom instance will always remain.
 
 
 ## Loosing a Village
 A village is lost when the Lord of the village is killed, but since he is always in the Lord's Manor, and enemy mobs cannot come inside the Lord's Manor, it is more accurate to say, a Village is lost when the Lord's Manor is destroyed.
 
-When this happens. The play through is over, a cutscene is played for loosing the village. The [[Main City]] is loaded while the village map is unloaded, and the players are respawned in the Main City.
+When this happens. The play through is over, a cutscene is played for loosing the village. The [Main City](<Main City.md>) is loaded while the village map is unloaded, and the players are respawned in the Main City.
 
 ## Reclaiming a Village
 

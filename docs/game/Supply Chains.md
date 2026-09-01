@@ -4,7 +4,7 @@ type: mechanic
 ## Overview
 Supply Chains of the Realm is the strategy gameplay of Terrible Knights
 
-When Player's are in the [[Main City]], it is always day, so there is no rush, it is the place in the game that gives players breathing room. They can look at the world map and assess the logistics of the Realm. Players can and should also manage Realm logistics while deployed to a Village as the Day-Night Cycle will resume and World Events may occur affecting villages you aren't at. And any Village you aren't at still experiences the Night cycle but will go through a simulated one since its map isn't loaded (as it is not the village that the players are at). This will happen for all active settlements the player isn't at.
+When Player's are in the [Main City](<Main City.md>), it is always day, so there is no rush, it is the place in the game that gives players breathing room. They can look at the world map and assess the logistics of the Realm. Players can and should also manage Realm logistics while deployed to a Village as the Day-Night Cycle will resume and World Events may occur affecting villages you aren't at. And any Village you aren't at still experiences the Night cycle but will go through a simulated one since its map isn't loaded (as it is not the village that the players are at). This will happen for all active settlements the player isn't at.
 
 To affectively manage supply chains players need to
 1. Ensure each village is somewhat capable of holding its own. Players should thus focus on going to vulnerable villages and playing there until the village is strong enough to defend its self, or at least well enough and coupled with proper supply lines so it can rebuild during the day.
@@ -27,15 +27,15 @@ To affectively manage supply chains players need to
 
 So at most a single village can have 1 caravan and one order of troops marching at a time
 
-Note: One time orders come in handy when [[World Event]]s take place at a village that you are (or aren't at).
+Note: One time orders come in handy when [World Event](<World Event.md>)s take place at a village that you are (or aren't at).
 
-All Shipments and Troop Requests can be made at a [[Logistics Hall]].
+All Shipments and Troop Requests can be made at a [Logistics Hall](<Logistics Hall.md>).
 
 ## Shipment
 
-A shipment is a caravan of wagons. There are two dimensions a player has to consider when creating a shipment, the segments used to define the [[Route]] path, and the quality of each segment in that path from the Main City and the destination Village.
+A shipment is a caravan of wagons. There are two dimensions a player has to consider when creating a shipment, the segments used to define the [Route](Route.md) path, and the quality of each segment in that path from the Main City and the destination Village.
 
-A Wagon in a caravan can hold some amount of [[Supply]] and/or [[Ammo]].
+A Wagon in a caravan can hold some amount of [Supply](Supply.md) and/or [Ammo](Ammo.md).
 
 The length of the route from Main City to destination Village determines how long the route will take, and the lowest quality segment between to villages in the route will determine the number of wagons that can be in that caravan, thus limiting how many goods can come per shipment to the village from the Main City. Thus investing in the quality of routes in the Realm is another logistical thing for players to keep in mind. But the more wagons in a caravan, the longer it may take, so there is a balancing act to establishing the Village shipment.
 
@@ -73,6 +73,6 @@ Players will have to play with the balance of route distance + route quality + c
 
 ### Makeup
 A company can include any combination of:
-- [[Engineers]]
-- [[Villagers]]
-- [[Troops]]
+- [Engineers](Engineers.md)
+- [Villagers](Villagers.md)
+- [Troops](Troops.md)

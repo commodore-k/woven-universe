@@ -1,9 +1,9 @@
 ---
 related:
-  - "[[Bazaar]]"
-  - "[[Supply Chains]]"
-  - "[[Tavern]]"
-  - "[[Realm Quests]]"
+  - "[Bazaar](Bazaar.md)"
+  - "[Supply Chains](<Supply Chains.md>)"
+  - "[Tavern](Tavern.md)"
+  - "[Realm Quests](<Realm Quests.md>)"
 ---
 
 ## Overview

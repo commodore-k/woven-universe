@@ -1,15 +1,15 @@
 ---
 related:
-  - "[[Main City]]"
-  - "[[Tavern]]"
-  - "[[Bazaar]]"
-  - "[[Queen's Manor]]"
-  - "[[Barracks]]"
-  - "[[Stable]]"
+  - "[Main City](<Main City.md>)"
+  - "[Tavern](Tavern.md)"
+  - "[Bazaar](Bazaar.md)"
+  - "[Queen's Manor](<Queen's Manor.md>)"
+  - "[Barracks](Barracks.md)"
+  - "[Stable](Stable.md)"
 ---
 ## Overview
 
-Realm Quests are given to the player by NPCs that reside in the [[Main City]]. To complete a quest, you must turn in the quest to the quest giver having performed the required tasks and/or collected the required items.
+Realm Quests are given to the player by NPCs that reside in the [Main City](<Main City.md>). To complete a quest, you must turn in the quest to the quest giver having performed the required tasks and/or collected the required items.
 
 Once a Realm Quest has been turned into the quest giver, then and only then will the Realm Quest be considered complete, this is important for anything that is gated behind a specific Realm Quest.
 

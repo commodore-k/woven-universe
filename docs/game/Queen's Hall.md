@@ -1,7 +1,7 @@
 ---
 related:
-  - "[[Queen's Manor]]"
-  - "[[Main City]]"
+  - "[Queen's Manor](<Queen's Manor.md>)"
+  - "[Main City](<Main City.md>)"
 ---
 ## Overview
-[[The Queen]]
+[The Queen](<The Queen.md>)

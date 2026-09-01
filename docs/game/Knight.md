@@ -2,9 +2,9 @@
 aliases:
   - Character
 related:
-  - "[[Barracks]]"
-  - "[[Inventory]]"
-  - "[[Player]]"
+  - "[Barracks](Barracks.md)"
+  - "[Inventory](Inventory.md)"
+  - "[Player](Player.md)"
 ---
 ## Overview
 Players play as Knights of the realm. Knights may also be referred to as a character the player plays as.

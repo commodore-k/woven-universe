@@ -1,22 +1,22 @@
 
 ## Starting The Game
-- A player spawns in at the [[Barracks]] in [[Main City]].
-- The player selects a preferred [[Knight]] to play as before leaving the Barracks
+- A player spawns in at the [Barracks](Barracks.md) in [Main City](<Main City.md>).
+- The player selects a preferred [Knight](Knight.md) to play as before leaving the Barracks
 - The player explores the town and sees there are a few locations they can visit as well as large empty areas, the town seems like it may expand to host more buildings in the future.
-	- The [[Barracks]]
-	- The [[Queen's Manor]]
-	- The [[Main Gate]]
-- They player makes their way to the [[Queen's Manor]].
-- In here they see there is a [[Logistics Hall]] as well as the [[Queen's Hall]].
+	- The [Barracks](Barracks.md)
+	- The [Queen's Manor](<Queen's Manor.md>)
+	- The [Main Gate](<Main Gate.md>)
+- They player makes their way to the [Queen's Manor](<Queen's Manor.md>).
+- In here they see there is a [Logistics Hall](<Logistics Hall.md>) as well as the [Queen's Hall](<Queen's Hall.md>).
 - They go to the Queen's Hall to talk with their Queen
 - She tells you to not come back until you have completed a Realm Quest.
 - The player then goes to the Logistics Hall
-- Here they can open up the [[World Map]]
+- Here they can open up the [World Map](<World Map.md>)
 
 ## Establishing A Village & Heading out
 
 - The player sees the entire world, all the biomes, and landmarks.
-- They also see overlaid on the map various sized regions, Each of these regions are a [[County]] the Realm claims is theirs.
+- They also see overlaid on the map various sized regions, Each of these regions are a [County](County.md) the Realm claims is theirs.
 - The player notices most are locked, but a few adjacent to the city are unlocked.
 - Each county has a variable number of markers (1-3 depending on the county)
 - One county is squarely in a field biome, another sits over that field biome but also a forest biome, the final unlocked county is squarely in the field biome

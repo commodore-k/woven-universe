@@ -12,5 +12,4 @@ Knights of the Queendom must endure Terrible Nights fighting off The Terror as t
 
 A mix of Strategy + Extraction Shooter + RPG
 
-
-[[Original Vision Document]]: This is the primal mover, the original idea document that spawned the buildout of this game concept. The wiki has since out grown it, but I kept it in here as a relic.
+[Original Vision Document](Original%20Vision%20Document.md): This is the primal mover, the original idea document that spawned the buildout of this game concept. The wiki has since out grown it, but I kept it in here as a relic.

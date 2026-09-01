@@ -2,7 +2,7 @@
 ## Overview
 Village maps can be a little large to travel on foot effectively, especially given the Day Night Cycle you have to be mindful of.
 
-Mounts, Like [[Knight]]s can have base upgrades that can be worked on in the [[Main City]]. For mounts, this will be done at the [[Stable]]. Also like Knights, they can get upgrades and buffs that only last while the player is at a village, when they leave, they go away.
+Mounts, Like [Knight](Knight.md)s can have base upgrades that can be worked on in the [Main City](<Main City.md>). For mounts, this will be done at the [Stable](Stable.md). Also like Knights, they can get upgrades and buffs that only last while the player is at a village, when they leave, they go away.
 
 
 

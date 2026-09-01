@@ -1,11 +1,11 @@
 ## Terrible Knights
 
 ### Overview
-This game is about Knights of the Realm helping the Queen expand her Queendom. But outside the [[Main City]], hordes of [[The Terror]] roam the land. expanding the queendom is a perilous endeavor. And so, her greatness tasks her Knights with this doomed task of expansion.
+This game is about Knights of the Realm helping the Queen expand her Queendom. But outside the [Main City](<Main City.md>), hordes of [The Terror](<The Terror.md>) roam the land. expanding the queendom is a perilous endeavor. And so, her greatness tasks her Knights with this doomed task of expansion.
 
-To better understand the game, I suggest following the docs in the same flow a player would play the game, that is, start with the [[Main City]] note as this too is where players start out when they load up the game. Then , just as a player would, explore the different locations at the Main City note to better understand the game and what the players do.
+To better understand the game, I suggest following the docs in the same flow a player would play the game, that is, start with the [Main City](<Main City.md>) note as this too is where players start out when they load up the game. Then , just as a player would, explore the different locations at the Main City note to better understand the game and what the players do.
 
-You can also check out the [[Game Loop]] for a high level run down for how the player loop works.
+You can also check out the [Game Loop](<Game Loop.md>) for a high level run down for how the player loop works.
 
 ## Quick Rundown
 A player immediately loads into the Main City where the Queen resides. Players select a county in the world map to establish a village for the realm. They then must build up its defenses, and protect the village from an endless Horde of The Terror throughout the nights. Your goal is to keep the village alive as long as possible!
