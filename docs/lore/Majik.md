@@ -3,33 +3,60 @@ aliases:
   - Blood Majik
 ---
 ## Overview
-Majik in this world REQUIRES blood, there is no other type of majik. It is a natural force, not something one is born with. And the only way one can use Majik is by crafting an Anchor and binding themselves with it. pouring blood on an unbound anchor has no affect, though the blood is still absorbed by the anchor.
+
+[Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are the forces that connects us to what made us, and what we are made of, respectively. That connection is found in our blood. Because both connections are found in our blood, they are both simply referred to as Bloodmajik. Very few in the Terrum Weave even know of Weave-Majik. When the Allkin Bonded, they created us. And when living creatures were created, we were created in the Terrum weave that the Allkin had made an untold amount of time ago.
+
+There is no other way in this universe for living creatures to cast majik; blood, in some form, must be given in order to cast majik. The first BloodMajik is kin-Majik, this is essentially the umbilical cord from us to our creators which spans the weaves of existence. It requires the solid parts of blood. The second is Weave-Majik, this one connects us to the weave of our existence that we are made of. And the only way one can use either of the Majiks, is by crafting an Anchor and binding themselves with it. pouring blood on an unbound blood anchor has no affect, though interestingly the blood is still absorbed by the anchor.
 
 ## Majik Anchors & Binding
-In Majik, there are many spells, but some are more similar to others and so majik that is similar to others are referred to as "schools". When crafting an anchor, the configuration of the anchor used to be locked to a single majik spell in the early days. Artificers have since been able to improve Anchors to allow usage of spells that falls under the same school of majik as the tolerance in the configurations between them are small and easy to account for in modern anchors.
 
-To bond with an Anchor means to literally embed the anchor into ones body. the front of the anchor must stick outside the body however in order for the majik to safely be cast as the majik emits from the surface of the anchor. The upside of this is that, if the anchor was smartly crafted, it can be upgraded with more improved cores without having to remove the anchor. So as anchor-tech evolves, you can potentially improve your anchor to be more powerful and/or be more efficient with the same amount of blood.
+A Blood Anchor essentially anchors the powers of an [Allkin Bond](Allkin%20Bond.md) and those powers can be used when a child of the [Allkin](Allkin.md) is bonded with it as the anchor will draw their blood in exchange for using the powers associated with that Allkin Bond. Majik spells are merely terms for a way in which they found to use the powers. Much like a sword, there are countless things you can do with a sword, but it is up to you to learn how to effectively use it, the anchor merely grants you access to it. An anchor must be built and configured in a certain way to anchor the power of a given Allkin bond, it cannot anchor multiple as the construction/configuration to anchor each are fundamentally different from each other.
 
-It is called a bond as generally once anchored, it is a commitment. If one binds themself with an anchor, it is usually fairly safe to remove it within a year. This bonding period is capitalized on at academies so students can try out a school of majik and decide what bond to commit to. But once a year or two passes, the body is fully grown and connected with that anchor, removing it will likely kill the person. Artificers aren't sure if there is some dependence the body grows into when healing from a binding of an anchor, or if something else causes these fatalities.
+To bond with an Anchor means to literally embed the anchor into ones body. the front of the anchor must stick outside the body however in order for the majik to safely be cast as the majik emits from the surface of the anchor. The upside of this is that, if the anchor was smartly crafted, it can be upgraded with more improved components later without having to remove the anchor itself. So as anchor-tech evolves, you can potentially improve your anchor to be more powerful and/or be more efficient with the same amount of blood. This is because different materials are better/worse for relaying blood with the bloodmajiks.
 
-[Durians](Durians.md) believe the anchor is a contract, a trade with Dura, blood for majik, and one must be committed to the trade, and so, using an anchor with blood when not bound to a person does nothing, though curiously the blood will still absorbed by the unbound anchor.
+It is called a bond as generally once anchored, it is a commitment. If one binds themself with an anchor, it is usually fairly safe to remove it ***within*** a year. This bonding period is capitalized on at academies so students can try out a school of majik and decide what bond to commit to. But once a year or two passes, the body is fully grown and connected with that anchor, removing it will likely kill the person. Artificers aren't sure if there is some dependence the body grows into when healing from a binding of an anchor, or if something else causes these fatalities.
+
+[Durians](Durians.md) believe the anchor is a contract, a trade with Dura, blood for majik, and one must be committed to the trade, and so, using an anchor with blood when not bound to a person does nothing, though curiously the blood will still be absorbed by the unbound anchor. In reality, Dura did not "set this up", however, any blood sacrificed to Dura or an Allkin Bond, can be used in any way they see fit.
 
 ### Binding to Multiple Anchors
 
 Creating an Anchor that can allow usage of bloodmajik in different schools is at this time not possible, current knowledge understands it as needing fundamentally different configurations between the schools of majik.
 
-Binding oneself to multiple anchors almost always causes death in a matter of months, though during that time they can use the anchors. Thus people are only bound to a single Anchor.
+Binding oneself to multiple anchors almost always causes death in a matter of months, though during that time they *can* use the anchors. Thus people are only bound to a single Anchor.
 
-Though in history there have been reports of suicide assassins who are bound with multiple in an attempt to bring to heel all the powers to take someone down. Unfortunately it usually never goes well for the assassin in those stories, the more they are used, the faster their conditions worsen, making it hard to train and be efficient enough to use all the anchors affectively. Artificers believe there is a conflict that grows between anchors bound to a body for which the body should regrow and heal around after being bound to it, effectively turning that body into a battlefield between anchors fighting for your bodies attention/dependence.
+Though in history there *have* been reports of suicide assassins who are bound with multiple in an attempt to bring to heel all the powers to take someone down. Unfortunately it usually never goes well for the assassin in those stories, the more they are used, the faster their conditions worsen, making it hard to train and be efficient enough to use all the anchors affectively before dying. Artificers believe there is a conflict that grows between anchors bound to a body for which the body should regrow and heal around after being bound to it, effectively turning that body into a battlefield between anchors fighting for your bodies attention/dependence.
+
+## Anchor Construction
+
+The structure of an anchor is usually the main configuration detail the determines the Allkin bond it anchors to, the rest of the configuration is around the majik conduits the determine blood sacrifice efficiency as well as ports that help the body know how to heal/grow around it and connect with the anchor after the binding process. Artificers have always considered the liquid part of blood useless since it never did anything to anchor with the Allkin Bond powers. So the configuration is setup so the body knows to take in the plasma after it pumps blood into the anchor from the veins that grew into it.
+
+ The Artificer's main role is to improve the configuration of the anchoring of that Allkin bond so that blood is used more affectively drawing more power for the same or less amount of blood. It is their task to learn how to construct alloys and various constructions and configurations to improve its effectiveness.
+
+It was the Wild Maji who pioneered this work in sworn secrecy. There was however a schism in this small group as they had differing opinions on what they should and shouldn't attempt with it once they discovered that plasma alone can indeed be anchored to something. It took ages of messing with configurations until they got it to anchor to something. Experimentation found that what they could control was the Weave itself. One sect wanted to use this to create a portal with the Aether Weave so that the Allkin and their children could be united. Others felt that they don't think it could or should be done. Wild Magi blood is drained much more when using the Warp and Weft since plasma takes up more of your blood. Additionally, while they could fairly reliably cast spells that mutated the Warp and Weft ***within*** the weave they were in, they weren't sure they should mettle with other Weaves. They barely had control on it let alone knowledge on it as it was so new a field in Majik.
+
+## Allkin Bond Schools of BloodMajik
+
+ The three recognised schools of Majik Vocic (Elemental), Rastuic (Vitality), and Ceric (Aether). Some Durians practice a shunned 4th school that draws on the powers of Dura, the Duric School of Majik. Durian Artificers are rare given how small and secretive the Durian community is.
+
+### Mardic - Elemental
+Control of Marda Allkin Bond powers: Elemental forces
+
+### Rastuic - Vitality
+Control of Rastur Allkin Bond powers: Plantlife and earth
+
+### Ceric - Aether
+Control of Cerel Allkin Bond powers: Time & Force
+
+### Duric - Blood
+Control of Dura's powers: Death, Blood, & BloodMajik
 
 
-## Schools of Majik
+### Woven School of PlasMajik
+Control of the Warp & Weft of the Weave the controller is made up of. Attempting to try and interact with other Weaves will almost always end in tearing your own weave.
 
- The three recognised schools of Majik are Elemental, Vitality, and Aether. Some Durians practice a shunned 4th school that draws on the powers of Dura, the Duric School of Majik. Durian Artificers are rare given how small and secretive the Durian community is.
- 
-
-### School of Elemental BloodMajik
- Offensive majik. Artificers who specialize in Elemental Anchors worship the [Vocia](Vocia.md) [Allkin Bond](Allkin%20Bond.md).
+## Detailed list of BloodMajik Spells Developed & Practiced
+### Mardic School of Elemental BloodMajik
+ Offensive majik. Artificers who specialize in Elemental Anchors worship the [Marda](Marda.md) [Allkin Bond](Allkin%20Bond.md).
 
  **Fireball (projectile)**
  A single ball of fire. Upon hitting something, a fiery explosion takes place.
@@ -66,9 +93,16 @@ Though in history there have been reports of suicide assassins who are bound wit
 
  ---
 
-### School of Vitality BloodMajik
+### Rastuic School of Vitality BloodMajik
 
  Supportive majik. Artificers who specialize in Vitality Anchors worship the [Rastur](Rastur.md) [Allkin Bond](Allkin%20Bond.md).
+
+ **Bloodroot (self/others)**
+ The Majus grows a thick, dark-barked root from the ground in moments — what would take weeks in nature taking only seconds through the power of the Rastur Bond. When snapped or cut, the root weeps a deep red sap. The target drinks the sap, which stimulates the body's own blood production at a dramatically accelerated rate. A significant blood loss that the body alone might take four to six weeks to recover from can be restored in a matter of days, or in exceptional cases — with a skilled Majus and a sustained cast — within a day.
+
+ Bloodroot does not replace blood directly. It encourages the body to make more of its own, faster. This makes it far slower than a Duric Majus with a supply of stored blood, but Vitality Maji are considerably less rare, and Bloodroot requires no stored blood — only the ground beneath and the blood in the caster's anchor. The root itself withers within minutes of being grown, and the sap loses potency quickly once exposed to air, so it must be consumed promptly.
+
+ Healers regard Bloodroot as one of the most practically valuable spells in the Vitality school, particularly on campaigns and in villages far from Duric practitioners.
 
  **Fortify (self/others)**
  Temporarily hardens an ally's body, reducing damage taken for a short duration.
@@ -114,7 +148,7 @@ Though in history there have been reports of suicide assassins who are bound wit
 
  ---
 
-### Aether
+### Cerelic School of Aether Bloodmajik
 
  Temporal and force majik. Artificers who specialise in Aether Anchors worship the [Cerel](Cerel.md) [Allkin Bond](Allkin%20Bond.md). Aether Maji have one fewer direct spells than other schools, but uniquely can inscribe their spells as Runes — see Runic Spells below.
 

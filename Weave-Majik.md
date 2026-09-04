@@ -1,0 +1,3 @@
+---
+type: "[[Majik|Blood Majik]]"
+---

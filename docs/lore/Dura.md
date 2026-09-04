@@ -6,15 +6,16 @@ tags:
 aliases:
   - Blood Mother
   - Fourth All-Mother
+  - Mother of Death
 ---
 ## Overview
-- [The All Mother](The%20All%20Mothers.md) of Death - death, night, bloodmajik etc.
+- [The All Mother](The%20All%20Mothers.md) of Life & Death - Life and Death of Living Creatures, Blood
 
-Dura is indeed a real [All Mother](The%20All%20Mothers.md) despite most humans refusing to accept her existence since she doesn't fit neatly in their head canon.
+Dura is indeed a real [All Mother](The%20All%20Mothers.md) despite most humans refusing to accept her existence since she doesn't fit neatly into the stories that have been spun by the Bonded Allkin.
 
 ## Fourth All Father
 
-Some[Durians](Durians.md) believe Dura is looking for the 4th [All Father](The%20All%20Fathers.md). Others instead believe she is trying to MAKE a 4th [All Father](The%20All%20Fathers.md). Both believe she is doing it so that she may bond with him and be more accepted. But regardless of which camp a Durian falls in, both camps believe she needs blood to do this.
+Some [Durians](Durians.md) believe Dura is looking for the 4th [All Father](The%20All%20Fathers.md). Others instead believe she is trying to MAKE a 4th [All Father](The%20All%20Fathers.md). Both believe she is doing it so that she may bond with him and be more accepted. But regardless of which camp a Durian falls in, both camps believe she needs blood to do this.
 
 ## BloodMajik
 

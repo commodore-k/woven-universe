@@ -38,7 +38,7 @@ bondings in order:
 	- nation: Emberal Empire
 	- station: Lord
 	- Bonding year:
-	- Bonding dedication: Vocia
+	- Bonding dedication: Marda
 - [Coson Kordona](Coson%20Kordona.md) (bachelor name: Lorien)
 	- same time as Durien
 	- station: Retired Knight, Now Entertainer

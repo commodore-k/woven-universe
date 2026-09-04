@@ -13,6 +13,6 @@ Without the All Mothers OR [The All Fathers](The%20All%20Fathers.md), there woul
 
 - [Stel](Stel.md): The Mother of Stars - Stars, light, planets, etc.
 - [Urda](Urda.md): The Mother of Earth - earth, stone, etc.
-- [Focia](Focia.md): The Mother of Fire - fire, heat, etc.
+- [Arda](Arda.md): The Mother of Fire - fire, heat, etc.
 
 - [Dura](Dura.md): The Mother of Death - death, night, bloodmajik etc.

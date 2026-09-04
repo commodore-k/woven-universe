@@ -1,6 +1,6 @@
 
 - Elemental (offensive majik) 6 spells
-	- Artificers who specialize in Elemental Anchors worship the Vocia Allkin Bond
+	- Artificers who specialize in Elemental Anchors worship the Marda Allkin Bond
 	- Fireball - (projectile)
 		- a single ball of fire, upon hitting something, a fiery explosion takes place.
 	- Flame-breath - (area)
