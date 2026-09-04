@@ -1,0 +1,36 @@
+---
+type: person
+family: "[[Kordona Bloodline|Kordona]]"
+bloodline: Arenstei
+bachelor name: Arenstei
+---
+***Lorekeeper note:***
+When you read this and the page about [Dura](Dura.md). You should hopefully see a connection between Dura and Durien's mother. Both are mothers that, albeit different ways, are pushed away by the children they love, but still love unconditionally. I didn't notice this until I re-read both my lore work on Dura and Durien's past. But I think its rather poetic that a Durian like Durien's mother would aptly reflect the virtue's of the All Mother she devoted herself to. It's also telling that despite the [Vocia](Vocia.md) Allkin Bond representing love, you can see that its love is mis-guided, and in reality it is more a love of self as they seek to remake themselves, but only Dura sees this narcissism. The children of the Allkin will never know this, but Durians believe that both the Vocia Bond and Dura can represent love. However they interpret the love to mean different types, with Dura's as more of an unconditional intimate or familial love, with the Vocia bond more representing the passionate, lustful love given the powerful, high energy that bond represents.
+
+---
+
+
+Durien's parents are [Durians](Durians.md). They thus named their one and only child after Dura. Throughout his childhood he was ridiculed and made fun of, kids would kill pests and leave them around him marking him as the bringer of death, which was always ironic to Durien as it was them doing the killing not him. He despised his parents for the cursed name they gave him.
+
+His mother died of a sickness the physician could not get a control of, sadly it was a curable one that was just addressed too late. His father took him out to the woods, here he witnessed a beautiful ritual. Many people he didn't know, durians, came with offerings, and food. They built a burial pyre Focia would be impressed by, and dawned her in an arrangement of Flowers that would make Rastos and Urda cry. The feast following the ceremony of his mother's cremation had him meeting people who knew his mother, people he'd never met in the Durian community. All the stories of what a loving and caring person she was, all the reveries of her regaling them of her smart, and lovely boy. It, it fueled him with rage, but it was directed at himself. And he also felt deep sorrow creeping up the back of his neck. He'd pushed his parents away, he'd avoided spending time with them, going to the Underhall to worship Dura with them, he spent so little time building memories with a mother that'd loved him, supported him, and now she was gone, there was no way he could build that bridge.
+
+
+Later that night, he couldn't hold it any longer, he went to his father, attempting to confess these feelings through fits tears of sharp in hales of breath. His father simply held him tightly, soaking in his son's tears. When a moment of quiet crept in, his father whispered in Durien's ear: "You can still talk with her". His father then took a step back, still holding his son's shoulders and looked him in the eyes, holding a small smile that held back his own sorrowful emotions. Durien felt caught off guard, he wasn't sure what he meant.
+
+His father said "Dura cares for the dead in her garden, she alone tends to us all. Everyone thinks we return to the Aether, to the material of the world. But Dura, she lets us stay in her garden when we pass. Its no garden like what Rastos tends, but she's learned a thing or two from him. Anyone in her garden may ask to return to the Aether when they are ready. I know that your mother wants to stay around, she wants to hear Dura regale her with the things her son does, she wants to hear what you become. But know that whatever you do, she will be happy as long as you do what you love Durien.". Durien just sat there in silence, this AllMother, she'd made his life hard, but then it struck him, just as he didn't make those kids kill the animals, it wasn't Dura that made his life hard. Sure that was technically his parents who named him, but he is of this world too, he can choose to take it, or he can choose to grow passed it, to not let opinions of others dictate how he leads his life. He asked his father "You said I can talk to her still? How?".
+
+His father looked at him, "Well to be clear its not a one on one conversation with her. But at the Underhall, when we go to worship and give offerings to Dura, you can speak to Dura, and she will listen, she can then relay your message to your Mother. Many do this when we go."
+
+
+It was at this point that Durien became a believer, he had to believe that he could talk to his mother, maybe this all wasn't real, but when he did it, it was cathartic, it helped him heal, and in some way, grow closer to his mother.
+
+
+Many years later, he was working as a craftsmen when the Daughter of the Sol Matris Mirela, Luminița walked in. She was looking to comission a new dining set for her mother's dining hall, and she wanted to hand select the craftsmen for the task. It was then that they first met. 
+
+As a lore I don't have the energy to try and flesh out some meet cute, but suffice to say this was the founding of a relationship that would grow through out various encounters over the years. As they gained trust, Durien would tell Luminița about Dura the 4th All Mother. The kindness she shows to both the living and the dead, and that death isn't something to fear. This side of Durien made him a bit taboo, but it was part of the draw for Luminița.
+
+Luminița let Durien know that bonding was required of the Sol crown. Durien understood this and Luminița told him he was the only one she'd found a real bonding with, but that upon her ascenion to Sol Matris, she was already lined up by her mother to be bonded with a man named Rasti. Durien took the news okay, but after a brief silence, he asked Luminița if she would bond with him. He had no land, no money, no real power, he didn't even have clout. Luminița said, that she would have to marry 3 times before she could marry someone of less importance. That last part stung but he knew she didn't mean it like that, it wasn't incorrect technically. He could wait, but there was one more thing he needed. He asked her, "would you dedicate our bond to Dura?". There was a long pause, Luminița couldn't do that, not even if she satisfied the 3 bonds expected of a Sol Matris. Her pained expression said it all, the structure in him collapsed, emotions started to churn in his stomach, but he pushed them down, he understood the pressure she was under, and he understood some didn't put much stock in bonding dedications. But over the years his relationship with his AllMother had become an important part of his life, if the one he bonded with couldn't accept that part, couldn't make that dedication, what more would he have to sacrifice of himself if he went down that path?
+
+The words in Luminița mouth caught on throat ask sorrow tugged at her as she tried to apologize, that she didn't see a way she could make that work, but that if she was someone else, she would do it in a heart beat.
+
+He understood that too; they both felt the love that could not be. a year or two later, when Luminița ascended, 

@@ -1,6 +1,7 @@
 ---
-lead-game-designer: Kyle Ferguson
+creator: Kyle Ferguson
 co-game-designers:
+  - Kyle Ferguson
   - Nils Bifano
   - Thomas Evans
 phase: pre-production

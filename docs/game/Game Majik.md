@@ -1,0 +1,61 @@
+
+- Elemental (offensive majik) 6 spells
+	- Artificers who specialize in Elemental Anchors worship the Vocia Allkin Bond
+	- Fireball - (projectile)
+		- a single ball of fire, upon hitting something, a fiery explosion takes place.
+	- Flame-breath - (area)
+		- a continuous stream of fire
+	- Icicles - (projectile)
+		- darts of sharp/pointy ice
+	- Frost-breath (area)
+		- a continuous stream of frost, stacks and slows targets down.
+	- Electric bolt (projectile)
+		- a single ball of energy, upon hitting something, an electrical explosion takes place.
+	- Electric-breath (area)
+		- a continuous stream of electricity
+- Vitality (supportive majik) 6 spells
+	- Artificers who specialize in Vitality Anchors worship the Rastur Allkin Bond
+	- Fortify (self/others)
+		- temporarily harden an ally's body, reducing damage taken
+	- Detoxify (self/others)
+		- grow fungus that emit spores which purge poison or disease
+	- Thorn Wall - (location)
+		- fast-growing wall of dense spiked growth, defensive barrier
+	- Ensnare - (location)
+		- roots burst from the ground restraining a target in place
+	- Carnivore - (location)
+		- summon a large stationary carnivorous plant that attacks nearby enemies
+	- Bloom - (location)
+		- release healing spores in an area around the caster
+- Aether (temporal & force majik - 10 spells (but 5 are runic of the same 5 spells)
+	- Artificers who specialize in Aether Anchors worship the Cerel Allkin Bond
+	- one less spell than the other families, but they can be placed as runes to be activated.
+	- Time spells
+		- speed up - (self/others)
+			- when casted, can speed up self or others for a short period of time
+		- slow down - (self/others)
+			- Want to jump out a building but have enough time to shoot a bow accurately? Slow yourself down, just know you're an easier target!
+		- rewind - (self/others)
+			- reverses the actions and affects on self others. if a person is walking backwards due to a rewind and are hit with another rewind (whether from a direct cast or rewind rune) that latest rewind spell is used up and the rewind affect is cancelled on that person (you rewound a rewind!).
+	- Force spells
+		- force barrier - (location)
+		- push - (self/others in direction)
+		- pull - (self/others in direction)
+	- Runic spells (future planning, intelligence, just like the Cerel Allkin Bond represents)
+		- Can set a rune on a surface that is configured with another non-rune Aether spell
+			- number of runic spells is equal to sum of Aether spells minus runic spells (currently 5 non-runic Aether spells, so 5 different rune spells can be cast)
+- Duric 6 spells
+	- Artificers who specialize in Duric Anchors are rare, but they worship the All Mother Dura.
+	- Blood drain - (self/others)
+		- can pull blood out of another, it will coalesce in front of the anchor, user should have a container to fill with the captured blood.
+	- Blood fill - (self/others)
+		- When blood close, can push the blood into the target to restore them
+	- Hemorrhage (others)
+		- cause internal bleeding in a target, damage over time
+	- Anchor Sight (area)
+		- sense all nearby anchors, identify their school and whether they're actively casting
+	- Suppress (others)
+		- interfere with blood flow through a target's anchor, preventing them from casting temporarily
+	- Reanimate (others-dead)
+		- can temporarily bring a dead corpse back to life to fight for you, they will however be much weaker, the will deal less damage than if they were alive, but that drop is not as dramatic as its life force takes.
+	- Note: must have a container for the anchor to draw from. To give yourself your own blood, you would need to first blood drain yourself, but doing so would only result in a net negative as you are spending your own blood to also draw your blood into a container, and then further spending your own blood to put what blood you did pull out, back in, so in the end you would have less blood. You can technically do it, but please don't be dumb, only self drain if you have no contained blood and need to blood fill an ally/friend. Similar goes for Vitality

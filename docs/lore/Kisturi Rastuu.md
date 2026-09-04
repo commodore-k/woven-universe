@@ -1,0 +1,4 @@
+---
+type: person
+bloodline: Rastuu
+---

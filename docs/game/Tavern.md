@@ -1,6 +1,10 @@
 
 ## Overview
 
+Owned and operated by [The Rastuu Brothers](The%20Rastuu%20Brothers.md): Bisturi and Kisturi Rastuu.
+
+These bearded brothers seek to make you feel right at home in their tavern with the finest food and drink in all of Embral! Why [Durien Kordona](Durien%20Kordona.md) himself has even endorsed their fine establishment!
+
 ## Drinks & Food
 
 The Tavern allows players to spend their gold on drinks and food. Different menu items provide different boons (or yes even banes) for a single deployment to a village.

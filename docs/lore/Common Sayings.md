@@ -1,0 +1,2 @@
+
+"Dura be damned" - is often said when someone is wielding courage recklessly, without consequence of death, i.e. they don't care what the mother of death might do. Mostly said by believers of the 4 Mothers, or believers in the 4th.

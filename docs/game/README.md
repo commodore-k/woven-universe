@@ -1,7 +1,7 @@
 ## Terrible Knights
 
 ### Overview
-This game is about Knights of the Realm helping the Queen expand her Queendom. But outside the [Main City](<Main City.md>), hordes of [The Terror](<The Terror.md>) roam the land. expanding the queendom is a perilous endeavor. And so, her greatness tasks her Knights with this doomed task of expansion.
+This game is about Knights of the Realm helping [The Queen](The%20Queen.md) expand her Queendom. But outside the [Main City](<Main City.md>), hordes of [The Terror](<The Terror.md>) roam the land. Expanding the queendom is a perilous endeavor. And so, her greatness tasks her Knights with this doomed task of expansion.
 
 To better understand the game, I suggest following the docs in the same flow a player would play the game, that is, start with the [Main City](<Main City.md>) note as this too is where players start out when they load up the game. Then , just as a player would, explore the different locations at the Main City note to better understand the game and what the players do.
 
