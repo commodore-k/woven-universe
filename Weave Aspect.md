@@ -1,0 +1,2 @@
+
+A ***Weave Aspect***, or an *aspect of a Weave*, is a "force" that exists *in* that Weave. It is not a fundamental force like the [Warp & Weft](Warp%20&%20Weft.md), it is rather a force that is *defined* by that Weave of the Warp and the Weft. So it is a force that only exists in that [Weave](Weave.md).

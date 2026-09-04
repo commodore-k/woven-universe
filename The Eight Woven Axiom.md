@@ -1,0 +1,3 @@
+This is the Eighth Axiom of the [Woven Axioms](Woven%20Axioms.md) that govern Weaving with the [Warp & Weft](Warp%20&%20Weft.md).
+
+While [The Seventh Woven Axiom](The%20Seventh%20Woven%20Axiom.md) prevents you from undoing a bound [Weave Cord](Weave%20Cords.md) completely, one can still modify their bounded Weave Cord slightly. The change however cannot modify to any degree that would change what Weave Aspect the Weave cord controlled.
