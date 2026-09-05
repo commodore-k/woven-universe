@@ -4,4 +4,4 @@ The Allkin failed to create beings like themselves. However, with the 3 bondings
 
 - Terrum Life Weave Aspect
 - Terrum Death Weave Aspect
-- Terrum Soul Weave Aspect
+- Terrum Blood Weave Aspect
