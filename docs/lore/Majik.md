@@ -2,9 +2,12 @@
 aliases:
   - Blood Majik
 ---
+Note:
+- majik: knots = configuration & knots with diff materials yeild diff power output vs blood efficiency tradeoffs.
+
 ## Overview
 
-[Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are both "BloodMajik". BloodMajik is the ability for [Blood Life](Blood%20Life.md) to use their blood to "touch" or "pull" on the [Weave Cord Bonds](Weave%20Cord%20Bonding.md) that created the [Composite Weave Aspect](Composite%20Weave%20Aspect.md)s, which in turn created blood-life in [Terrum](Terrum.md). It also allows them to use their blood in the exact same way with un-bonded [[Weave Cords]] that are made from the Composite Weave Aspects that created them (the blood-life).
+[Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are both "BloodMajik". BloodMajik is the ability for [Blood Life](Blood%20Life.md) to use their blood to "touch" or "pull" on the [Weave Cord Bonds](Weave%20Cord%20Splicing.md) that created the [Composite Weave Aspect](Composite%20Weave%20Aspect.md)s, which in turn created blood-life in [Terrum](Terrum.md). It also allows them to use their blood in the exact same way with un-bonded [[Weave Cords]] that are made from the Composite Weave Aspects that created them (the blood-life).
 
 
 Very few in the *Terrum* Weave even know of Weave-Majik, While the sect of Durians that discovered it are unaware of it, it is actually an un-intended consequence of [Dura](Dura.md)'s Blood Weave Cord being frayed.

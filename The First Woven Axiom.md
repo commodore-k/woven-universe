@@ -2,3 +2,5 @@ This is the First Axiom of the [Woven Axioms](Woven%20Axioms.md) that govern Wea
 
 
 Beings made of a given Weave ***cannot*** mutate the structure of their own Weave in any way.
+
+The reason one cannot mutate nor control any of the Aspects of their own [Weave](Weave.md) is because they must be able to pickup their weave, and when you are made of a weave, you cannot pick it up. It is like if I asked you to pick yourself up off of the ground, take your hands, grab your legs and just pick yourself up so you are no longer touching the ground. The requirement works sort of like that. Now what picking up a weave truly looks like, I cannot say, that's like asking you to comprehend and be able to see a 4 or 5 dimensional cube as a 3d being... you can't. Likewise, we don't know what it actually means to "lift up a Weave" we simply know that it is the best description for what is required to be able to mutate or control some Weave Aspect. The same requirement is needing to make a Weave Cord or to Splice a Weave Cord with another.

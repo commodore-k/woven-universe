@@ -7,4 +7,4 @@ The Woven Axioms are the fundamental truths of the Warp and Weft in [The Woven U
 - [The Fifth Woven Axiom](The%20Fifth%20Woven%20Axiom.md)
 - [The Sixth Woven Axiom](The%20Sixth%20Woven%20Axiom.md)
 - [The Seventh Woven Axiom](The%20Seventh%20Woven%20Axiom.md)
-- [The Eight Woven Axiom](The%20Eight%20Woven%20Axiom.md)
+- [The Eighth Woven Axiom](The%20Eighth%20Woven%20Axiom.md)

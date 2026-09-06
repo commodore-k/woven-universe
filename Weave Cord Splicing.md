@@ -1,3 +1,8 @@
+---
+aliases:
+  - Spliced Weave Cord
+  - Spliced Weave Cords
+---
 
 
 A mysterious, advanced technique with [Weave Cords](Weave%20Cords.md) that can, if done correctly, create the [Composite Weave Aspect](Composite%20Weave%20Aspect.md)s. These are required for [Blood Life](Blood%20Life.md) to exist in a Weave as the following are Composite Weave Aspects:
