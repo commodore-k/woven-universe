@@ -1,2 +1,0 @@
-
-When a Being uses a [Weave Cord](Weave%20Cords.md) that is bonded to them, they are the only one that can use it. In the event that a Weave Cord is Frayed which allows other Beings would can wield the Warp & Weft Directly is using the Fray to use said Frayed Weave Cord, then they are pushed out if the Bonded Being uses the Weave Cord. Interestingly, this does not prevent people pulling on a Weave Cord with blood. That is to say, Bloodlife are not affected by this Axiom.

@@ -1,7 +1,4 @@
-The Allkin believe that the ability for Life in a Weave requires a specific set of [Weave Aspects](Weave%20Aspect.md) and in order to create those Weave Aspects, Weave Cords need to be spliced (i.e. combining Weave Cords  each tied to a specific Weave Aspect). And through these splicings of Weave Cords, they can create new and more complex ***Composite*** Weave Aspects. And they believe a set of Composite Weave Aspects could create beings like themselves.
 
-The Allkin failed to create beings like themselves. However, with the 3 splicings that created 3 different Composite Weave Aspects, they *did* indeed create life, but one much weaker than themselves:
+A Composite Weave Aspect is just a [Weave Aspect](Weave%20Aspect.md) in a [Weave](Weave.md). However, it is made by *using* two other Weave Aspects. A Weave Aspect sits in a certain point on a Weave so combining two or more Weave Aspects into a Composite Weave Aspect in a Weave on their own is not possible. However, If you have two or more [Weave Cord](Weave%20Cords.md) bonded some Weave Aspects on a Weave, then you can splice those Weave Cords and then use that to make a New Weave Aspect in the Weave, thus making a Composite Weave Aspect. The Cords essentially allow one to blend two or more different Weave Aspects in different parts of a Weave to create a new Weave Aspect. Depending on the powers of the Weave Aspects that are blended together will create new, novel Weave Aspects for the Weave.
 
-- Terrum Life Composite Weave Aspect
-- Terrum Death Composite Weave Aspect
-- Terrum Blood Composite Weave Aspect
+For example, the [Marus](Marus.md)'s Weave Cord to the Terrum Water Weave Aspect and [Arda](Arda.md)'s Weave Cord to the Terrum Fire Weave Aspect was used to create the Terrum Blood Composite Weave Aspect.

@@ -2,55 +2,53 @@
 aliases:
   - Blood Majik
 ---
-Note:
-- majik: knots = configuration & knots with diff materials yeild diff power output vs blood efficiency tradeoffs.
-
 ## Overview
 
-[Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are both "BloodMajik". BloodMajik is the ability for [Blood Life](Blood%20Life.md) to use their blood to "touch" or "pull" on the [Weave Cord Bonds](Weave%20Cord%20Splicing.md) that created the [Composite Weave Aspect](Composite%20Weave%20Aspect.md)s, which in turn created blood-life in [Terrum](Terrum.md). It also allows them to use their blood in the exact same way with un-bonded [[Weave Cords]] that are made from the Composite Weave Aspects that created them (the blood-life).
+[Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are both "BloodMajik". BloodMajik is the ability for [Blood Life](Blood%20Life.md) to use their blood to "touch" / "pull" on the [Weave Cord](Weave%20Cords.md)s.
 
 
 Very few in the *Terrum* Weave even know of Weave-Majik, While the sect of Durians that discovered it are unaware of it, it is actually an un-intended consequence of [Dura](Dura.md)'s Blood Weave Cord being frayed.
 
 
-There is no other type of majik system in the [The Woven Universe](The%20Woven%20Universe.md). If you wish to use the powers of [Weave Cords](Weave%20Cords.md) or Bonded Weave Cords, or the [Warp & Weft](Warp%20&%20Weft.md) itself (thanks to Dura's Frayed Weave Cord), then blood, in some way MUST be sacrificed.
+There is no other type of majik system in Terrum. If you wish to use the powers of [Weave Cords](Weave%20Cords.md) or Bonded Weave Cords, or the [Warp & Weft](Warp%20&%20Weft.md) itself (thanks to Dura's Frayed Weave Cord), then blood, in some way, MUST be sacrificed.
 
 
 
 ## Majik Anchors & Binding
 
-A blood-life's blood allows them to trade blood for power, but in order to connect to a Weave Cord or Weave Cord Bond, one needs to bind a Weave Anchor to themselves. This is what allows a blood-life to touch a Weave Cord or Weave Cord Bond with their blood and draw power. When a Majus may only use the powers of the Weave Cords / Weave Cord Bonds that their Weave anchor is configured to connect with no others can be touched.
+Power of a Weave Cord === BloodMajik
+
+An Anchor allows a Bloodlife to touch a set of similar Weave Aspects. These sets of similar Weave Aspects are called "Schools of Majik". For an anchor to "anchor" to school of magic, it must have a specific structure. And then in order to touch a Weave Cord *within* this school of Majik, the Anchor must be "configured". This configuration is a specific knot of any [Terrum](Terrum.md) material. Selecting a Weave Cord to pull on is often called "knotting an anchor". Now, in order for a Blood life to pull on a Weave Cord, one end of the knot is connected to the core of the anchor and the other has to be connected to a vein, the Anchor usually has a "veinport" that one end of the knot plugs into, the other end of that port is where a vein will be inserted into. The final function of an anchor is to control the flow of blood from that anchor to the knot in the anchor. When it is opened, the blood will flow in and the knot acts as a conduit soaking in the blood and connecting to the Weave Cord associated with that knot. As long as there is blood flowing, the connection from the Weave Cord to the Maji's heart is complete, and allows them to wield the powers of that Weave Cord.
+
+The type of material the knot is made of affects:
+1. How much of that power the Majus can pull from the Weave Cord
+2. How efficient it was with using the Maji's blood for pulling power from the Weave Cord
 
 Pouring blood on an unbound Weave Anchor has no affect, though interestingly the blood is still absorbed by the anchor.
 
-Majik "spells" are merely terms for a way in which someone found to use the powers. Much like a sword, there are countless things you can do with it, but it is up to you to learn how to effectively use it. Likewise the anchor and your blood merely grants you access to it, but it is up to you to learn how to affectively wield it.
-
-An anchor must be built and configured in a certain way to anchor the power of a given set of Weave Cords or Weave Cord Bonds. Certain sets of Weave Cords or Weave Cord bonds require similar structures, these Weave Cords can all be accessed by a single Weave Anchor. However, a Weave Anchor with one structure cannot access Other Weave Cords that required a different structure. Through this we get a natural set of "like Majik". These sets are referred to as the "Schools of Majik".
-
-To bond with an Anchor means to literally embed the anchor into ones body. the front of the anchor must stick outside the body however in order for the majik to safely be cast as the majik emits from the surface of the anchor. The upside of this is that, if the anchor was smartly crafted, it can be upgraded with more improved components later without having to remove the anchor itself. So as anchor-tech evolves, you can potentially improve your anchor to be more powerful and/or be more efficient with the same amount of blood. This is because different materials are better/worse for conveying blood along the Weave Cords.
+Since a vein has to grow into the port of an Anchor and an Anchors configuration is that of a knot, the Anchor thus must be embedded or "bonded" into the body of the Majus which requires surgery, and it must have its configuration chamber accessible from the surface of the body so they can switch out knots, and also be able to upgrade the anchor as some may want to upgrade to an "auto-knotting" anchor. These auto-knotting anchors can take a single strand of flexible material (rope, wire of different metals, etc) and then auto knot and knots used for the given Anchor Structure the Maji is bonded with.
 
 It is called a bond as generally once anchored, it is a commitment. If one binds themself with an anchor, it is usually fairly safe to remove it ***within*** a year. This bonding period is capitalized on at academies so students can try out a school of majik and decide what bond to commit to. But once a year or two passes, the body is fully grown and connected with that anchor, removing it will likely kill the person. Artificers aren't sure if there is some dependence the body grows into when healing from a binding of an anchor, or if something else causes these fatalities.
 
 ### Binding to Multiple Anchors
 
-Creating an Anchor that can allow usage of bloodmajik in different schools is at this time not possible, current knowledge understands it as needing fundamentally different structures between the schools of majik.
+Creating an Anchor that can allow usage of bloodmajik in different schools is at this time not possible, current knowledge understands it as needing fundamentally different structures for the anchor between the schools of majik.
 
 Binding oneself to multiple anchors almost always causes death in a matter of months, though during that time they *can* use the anchors. Thus people are only bound to a single Anchor.
 
 Though in history there *have* been reports of suicide assassins who are bound with multiple in an attempt to bring to heel all the powers to take someone down. Unfortunately it usually never goes well for the assassin in those stories, the more they are used, the faster their conditions worsen, making it hard to train and be efficient enough to use all the anchors affectively before dying. Artificers believe there is a conflict that grows between anchors bound to a body for which the body should regrow and heal around after being bound to it, effectively turning that body into a battlefield between anchors fighting for your bodies attention/dependence.
 
-## Anchor Construction
-
-The structure of a Weave Anchor is usually the main configuration detail the determines what set of Weave Cords it can Anchor to (i.e. What School of Majik it can access). The rest of the internal configuration is around the majik conduits the determine blood sacrifice efficiency as well as ports that help the body know how to heal/grow around it and connect with the weave anchor after the binding process. Artificers have always considered the liquid part of blood useless since it never did anything to anchor with the Weave Cord powers. So the configuration is setup so the body knows to retake its plasma after it pumps blood into the anchor from the veins that grew into it.
-
- The Artificer's main role is to improve the configuration of the anchoring with that School of Majik so that blood is used more affectively drawing more power for the same or less amount of blood. It is their task to learn how to construct alloys and various constructions and configurations to improve its effectiveness.
+## WeaveMajik
 
 
+//--- lore under construction
 Weave-majik was pioneered by a secret sect *within* the [Durian](Durians.md) community. They called themselves The Woven, and they pioneered Weave-majik and kept it a secret. This majik allowed them to do things like teleport and distort reality within the *Terrum* Weave. There was however a schism in this small group as they had differing opinions on what they should and shouldn't attempt with it once they discovered that plasma alone can indeed be anchored to something. It took ages of messing with configurations until they got it to anchor to something. Experimentation found that what they could control was the Weave itself. One sect wanted to use this to create a portal with the Aether Weave so that they, the adopted children of [Dura](Dura.md) could join and be united with her. Others felt that they didn't think it could or should be done. Woven Magi blood is drained much more when using the Warp and Weft since plasma takes up more of your blood. Additionally, while they could fairly reliably cast spells that mutated the Warp and Weft ***within*** the weave they were in (not knowing they were leveraging the [The Fourth Woven Axiom](The%20Fourth%20Woven%20Axiom.md)), they weren't sure they should mettle with other Weaves outside their own. They barely had control on theirs let alone knowledge on using it with others, as it was so new a field in Majik.
-
+//--- 
 ## Schools of BloodMajik
 
  The three recognized schools of Majik: Marda (Elemental), Rastuic (Vitality), and Ceric (Aether). Some Durians practice a shunned 4th school that draws on the powers of Dura, the Duric School of Majik. Durian Artificers are rare given how small and secretive the Durian community is. And finally, the 5th and most secret of the Schools of Majik: The Woven School of Majik.
+
+As you can see, the Weaves that are similar to one another that form these "schools of majik" are namely based on the [Spliced Weave Cords](Weave%20Cord%20Splicing.md) i.e. the [Allkin Bond](Allkin%20Bond.md)
 
 ### Mardic - Elemental
 Control of Marda Allkin Bond powers: Elemental forces
@@ -69,9 +67,8 @@ Control of the Warp and Weft, the fundamental forces of [The Woven Universe](The
 
 
 
-### Woven School of PlasMajik
-Control of the Warp & Weft of the Weave the controller is made up of. Attempting to try and interact with other Weaves will almost always end in tearing your own weave.
 
+//--- Section below is mostly AI generated, this is not important.
 ## Detailed list of BloodMajik Spells Developed & Practiced
 ### Mardic School of Elemental BloodMajik
  Offensive majik. Artificers who specialize in Elemental Anchors worship the [Marda](Marda.md) [Allkin Bond](Allkin%20Bond.md).
