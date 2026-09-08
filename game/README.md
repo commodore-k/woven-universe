@@ -1,4 +1,6 @@
-## Terrible Knights
+
+
+This directory is to explore a game concept that could live in [The Woven Universe](The%20Woven%20Universe.md). This is actually where the Woven Universe originally stemmed from, with the game as the primary goal. It has since shifted to a secondary goal as the universe lore has exploded and multiple mediums I believe could be pursued for it.
 
 ### Overview
 This game is about Knights of the Realm helping [The Queen](The%20Queen.md) expand her Queendom. But outside the [Main City](<Main City.md>), hordes of [The Terror](<The Terror.md>) roam the land. Expanding the queendom is a perilous endeavor. And so, her greatness tasks her Knights with this doomed task of expansion.
