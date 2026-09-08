@@ -1,0 +1,4 @@
+---
+aliases:
+  - Schools of BloodMajik
+---

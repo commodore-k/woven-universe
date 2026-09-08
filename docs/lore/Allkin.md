@@ -1,5 +1,6 @@
 ---
 type: allkin
+weave: "[[Aether]]"
 tags:
   - allkin
   - all-mother

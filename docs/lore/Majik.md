@@ -4,7 +4,11 @@ aliases:
 ---
 ## Overview
 
+Power of a Weave Cord === BloodMajik
+
 [Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are both "BloodMajik". BloodMajik is the ability for [Blood Life](Blood%20Life.md) to use their blood to "touch" / "pull" on the [Weave Cord](Weave%20Cords.md)s.
+
+In Terrum, pulling on a Weave Cord is called [Blood Majik](Majik.md), and to the [[Woven Magi]] it is referred to as [Kin-Majik](Kin-Majik.md). This is because the Woven discovered [Weave-Majik](Weave-Majik.md), which is also Blood Majik
 
 
 Very few in the *Terrum* Weave even know of Weave-Majik, While the sect of Durians that discovered it are unaware of it, it is actually an un-intended consequence of [Dura](Dura.md)'s Blood Weave Cord being frayed.
@@ -16,27 +20,8 @@ There is no other type of majik system in Terrum. If you wish to use the powers 
 
 ## Majik Anchors & Binding
 
-Power of a Weave Cord === BloodMajik
 
-An Anchor allows a Bloodlife to touch a set of similar Weave Aspects. These sets of similar Weave Aspects are called "Schools of Majik". For an anchor to "anchor" to school of magic, it must have a specific structure. And then in order to touch a Weave Cord *within* this school of Majik, the Anchor must be "configured". This configuration is a specific knot of any [Terrum](Terrum.md) material. Selecting a Weave Cord to pull on is often called "knotting an anchor". Now, in order for a Blood life to pull on a Weave Cord, one end of the knot is connected to the core of the anchor and the other has to be connected to a vein, the Anchor usually has a "veinport" that one end of the knot plugs into, the other end of that port is where a vein will be inserted into. The final function of an anchor is to control the flow of blood from that anchor to the knot in the anchor. When it is opened, the blood will flow in and the knot acts as a conduit soaking in the blood and connecting to the Weave Cord associated with that knot. As long as there is blood flowing, the connection from the Weave Cord to the Maji's heart is complete, and allows them to wield the powers of that Weave Cord.
 
-The type of material the knot is made of affects:
-1. How much of that power the Majus can pull from the Weave Cord
-2. How efficient it was with using the Maji's blood for pulling power from the Weave Cord
-
-Pouring blood on an unbound Weave Anchor has no affect, though interestingly the blood is still absorbed by the anchor.
-
-Since a vein has to grow into the port of an Anchor and an Anchors configuration is that of a knot, the Anchor thus must be embedded or "bonded" into the body of the Majus which requires surgery, and it must have its configuration chamber accessible from the surface of the body so they can switch out knots, and also be able to upgrade the anchor as some may want to upgrade to an "auto-knotting" anchor. These auto-knotting anchors can take a single strand of flexible material (rope, wire of different metals, etc) and then auto knot and knots used for the given Anchor Structure the Maji is bonded with.
-
-It is called a bond as generally once anchored, it is a commitment. If one binds themself with an anchor, it is usually fairly safe to remove it ***within*** a year. This bonding period is capitalized on at academies so students can try out a school of majik and decide what bond to commit to. But once a year or two passes, the body is fully grown and connected with that anchor, removing it will likely kill the person. Artificers aren't sure if there is some dependence the body grows into when healing from a binding of an anchor, or if something else causes these fatalities.
-
-### Binding to Multiple Anchors
-
-Creating an Anchor that can allow usage of bloodmajik in different schools is at this time not possible, current knowledge understands it as needing fundamentally different structures for the anchor between the schools of majik.
-
-Binding oneself to multiple anchors almost always causes death in a matter of months, though during that time they *can* use the anchors. Thus people are only bound to a single Anchor.
-
-Though in history there *have* been reports of suicide assassins who are bound with multiple in an attempt to bring to heel all the powers to take someone down. Unfortunately it usually never goes well for the assassin in those stories, the more they are used, the faster their conditions worsen, making it hard to train and be efficient enough to use all the anchors affectively before dying. Artificers believe there is a conflict that grows between anchors bound to a body for which the body should regrow and heal around after being bound to it, effectively turning that body into a battlefield between anchors fighting for your bodies attention/dependence.
 
 ## WeaveMajik
 
