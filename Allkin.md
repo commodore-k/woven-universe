@@ -9,6 +9,8 @@ tags:
 ---
 ## Overview
 
+consume Time for energy
+
 (See [The Woven Story](The%20Woven%20Story.md) for more historical details)
 
 The Allkin are powerful, immortal being that reside in the [Aether](Aether.md) Weave. This Pantheon of Allkin is comprised of two groups, [The All Mothers](The%20All%20Mothers.md) and [The All Fathers](The%20All%20Fathers.md). They are real entities that mettle with [Terrum](Terrum.md). They each hold domain (power) over different aspects of the Terrum weave. They cannot directly interact with the Terrum Weave as we, being OF terrum do, but using the forces under their domain, they can indirectly sculpt and guide how the the Terrum Weave changes. Without one or the other, living creatures could not exist in Terum, it takes both the All Mothers AND the All Fathers to create living creatures. For an unknowable amount of time however, they instead played with their powers building out the Terrum Weave as we understand today. It wasn't until the forming of the [Allkin Bonds](Allkin%20Bond.md) that birthed living creatures into the world. It was at this point that they began acting as sculptors, using their powers as indirect scalpels, nudging evolution after its initial birth this way and that. Many believe we humans are the culmination of their work over untold amounts of time. Others believe we are but a stepping stone as they work to create creatures that reflect themselves in the Terrum Weave more closely. The latter would be right, but they'll never know as they are but mortal.

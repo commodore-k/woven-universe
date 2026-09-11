@@ -1,11 +1,12 @@
 ---
-type: allkin
+type: "[[Allkin Bond]]"
+majik-order: "[[Mardic Order]]"
 tags:
   - allkin-bond
   - allkin
 ---
 ## Terrum Understanding
-This is the [Allkin Bond](Allkin%20Bond.md) name of [Marus](Marus.md) and [Arda](Arda.md)'s Bonding.
+This is the [Allkin Bond](Allkin%20Bond.md) name of [Marus](Marus.md) and [Arda](Arda.md)'s "Bonding".
 
 
 ## Reality

@@ -12,20 +12,45 @@ This is the Weave of Existence within [the Woven Universe](The%20Woven%20Univers
 ### [Weave Aspects](Weave%20Aspect.md)
 The Terrum Weave is comprised of 14 Weave Aspects
 
-- [Growth Weave Aspect](Growth%20Weave%20Aspect.md)
-- [Decay Weave Aspect](Decay%20Weave%20Aspect.md)
-- [Vitality Weave Aspect](Vitality%20Weave%20Aspect.md)
-- [Matter Weave Aspect](Matter%20Weave%20Aspect.md)
-- [Density Weave Aspect](Density%20Weave%20Aspect.md)
-- [Temperature Weave Aspect](Temperature%20Weave%20Aspect.md)
-- [Combustion Weave Aspect](Combustion%20Weave%20Aspect.md)
-- [Light Weave Aspect](Light%20Weave%20Aspect.md)
-- [Flux Weave Aspect](Flux%20Weave%20Aspect.md)
-- [Flow Weave Aspect](Flow%20Weave%20Aspect.md)
-- [Motion Weave Aspect](Motion%20Weave%20Aspect.md)
-- [Pressure Weave Aspect](Pressure%20Weave%20Aspect.md)
-- [Gravity Weave Aspect](Gravity%20Weave%20Aspect.md)
-- [Time Weave Aspect](Time%20Weave%20Aspect.md)
+- [Germinal Weave Aspect](Germinal%20Weave%20Aspect.md)
+- [Vital Weave Aspect](Vital%20Weave%20Aspect.md)
+- [Material Weave Aspect](Material%20Weave%20Aspect.md)
+- [Magnetic Weave Aspect](Magnetic%20Weave%20Aspect.md)
+- [Electrical Weave Aspect](Electrical%20Weave%20Aspect.md)
+- [Fluidic Weave Aspect](Fluidic%20Weave%20Aspect.md)
+- [Thermal Weave Aspect](Thermal%20Weave%20Aspect.md)
+- [Volatile Weave Aspect](Volatile%20Weave%20Aspect.md)
+- [Kinematic Weave Aspect](Kinematic%20Weave%20Aspect.md)
+- [Temporal Weave Aspect](Temporal%20Weave%20Aspect.md)
+- [Gravitic Weave Aspect](Gravitic%20Weave%20Aspect.md)
+- [Luminal Weave Aspect](Luminal%20Weave%20Aspect.md)
+- [Ordinal Weave Aspect](Ordinal%20Weave%20Aspect.md)
+
+- Dura
+	- Animate Composite Weave Aspect
+	- Mortal Composite Weave Aspect
+	- Sanguineous Composite Weave Aspect
+
+Marus + Arda = Marda Bond, powerful bond, Elemental, verb like, action
+marus is a mix of Zeus and Posiedon
+
+Rastos + Urda, supportive bond, Structural, health, noun like, stationary
+
+Cerus + Stel: Celestial bond, powerful bond, Forces, verb like, movement
+
+Dura, Singular, most powerful relative to blood-life, verb like, complex
+
+13 Weave Aspects, 13 powers of the Gods, 13 month calendar, 3 powerful bonds
+
+Rastos: Joy, Happiness
+Urda: True Love, home
+Marus: Passion, Power
+Arda: Lust, Aggression
+Cerus: Communication, Memories
+Stel: Logical, Honest
+
+
+
 
 ### [Composite Weave Aspects](Composite%20Weave%20Aspect.md)
 The [Allkin](Allkin.md), using the [Weave Cord](Weave%20Cords.md)s they'd created, were used to combine various existing Weave Aspects of Terrum that the Cords were connected with to create these Composite Weave Aspects:

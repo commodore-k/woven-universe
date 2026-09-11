@@ -6,42 +6,30 @@ aliases:
 
 Power of a Weave Cord === BloodMajik
 
-[Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are both "BloodMajik". BloodMajik is the ability for [Blood Life](Blood%20Life.md) to use their blood to "touch" / "pull" on the [Weave Cord](Weave%20Cords.md)s.
+[Kin-Majik](Kin-Majik.md) & [Weave-Majik](Weave-Majik.md) are both "BloodMajik". BloodMajik is the ability for [Blood Life](Blood%20Life.md) to use their blood to "touch" / "pull" on the [Weave Cord](Weave%20Cords.md)s so that they may access the powers of the [Weave Aspect](Weave%20Aspect.md) a given Weave Cord is connected to.
 
 In Terrum, pulling on a Weave Cord is called [Blood Majik](Majik.md), and to the [[Woven Magi]] it is referred to as [Kin-Majik](Kin-Majik.md). This is because the Woven discovered [Weave-Majik](Weave-Majik.md), which is also Blood Majik
 
-
 Very few in the *Terrum* Weave even know of Weave-Majik, While the sect of Durians that discovered it are unaware of it, it is actually an un-intended consequence of [Dura](Dura.md)'s Blood Weave Cord being frayed.
-
 
 There is no other type of majik system in Terrum. If you wish to use the powers of [Weave Cords](Weave%20Cords.md) or Bonded Weave Cords, or the [Warp & Weft](Warp%20&%20Weft.md) itself (thanks to Dura's Frayed Weave Cord), then blood, in some way, MUST be sacrificed.
 
 
 
-## Majik Anchors & Binding
-
-
-
-
-## WeaveMajik
-
-
 //--- lore under construction
 Weave-majik was pioneered by a secret sect *within* the [Durian](Durians.md) community. They called themselves The Woven, and they pioneered Weave-majik and kept it a secret. This majik allowed them to do things like teleport and distort reality within the *Terrum* Weave. There was however a schism in this small group as they had differing opinions on what they should and shouldn't attempt with it once they discovered that plasma alone can indeed be anchored to something. It took ages of messing with configurations until they got it to anchor to something. Experimentation found that what they could control was the Weave itself. One sect wanted to use this to create a portal with the Aether Weave so that they, the adopted children of [Dura](Dura.md) could join and be united with her. Others felt that they didn't think it could or should be done. Woven Magi blood is drained much more when using the Warp and Weft since plasma takes up more of your blood. Additionally, while they could fairly reliably cast spells that mutated the Warp and Weft ***within*** the weave they were in (not knowing they were leveraging the [The Fourth Woven Axiom](The%20Fourth%20Woven%20Axiom.md)), they weren't sure they should mettle with other Weaves outside their own. They barely had control on theirs let alone knowledge on using it with others, as it was so new a field in Majik.
 //--- 
-## Schools of BloodMajik
+## BloodMajik Orders
 
- The three recognized schools of Majik: Marda (Elemental), Rastuic (Vitality), and Ceric (Aether). Some Durians practice a shunned 4th school that draws on the powers of Dura, the Duric School of Majik. Durian Artificers are rare given how small and secretive the Durian community is. And finally, the 5th and most secret of the Schools of Majik: The Woven School of Majik.
+ The three recognized orders of Majik: Mardic (Elemental), Rasturic (Vitality), and Cerelic (Celestial). Some Durians practice a shunned 4th school that draws on the powers of Dura, the Duric Order. Durian Artificers are rare given how small and secretive the Durian community is. And finally, the 5th and most secret of the Schools of Majik: The Woven School of Majik.
 
-As you can see, the Weaves that are similar to one another that form these "schools of majik" are namely based on the [Spliced Weave Cords](Weave%20Cord%20Splicing.md) i.e. the [Allkin Bond](Allkin%20Bond.md)
+Blood Majik Orders have formed based around the set of Majik one can anchor themselves to. With that, there are 3 official Orders of Majik that mirror the [Allkin Bonds](Allkin%20Bond.md).
 
-### Mardic - Elemental
-Control of Marda Allkin Bond powers: Elemental forces
+- [Mardic Order](Mardic%20Order.md)
+- [Rasturic Order](Rasturic%20Order.md)
 
-### Rastuic - Vitality
-Control of Rastur Allkin Bond powers: Plantlife and earth
 
-### Ceric - Aether
+### Cerelic - Celestial
 Control of Cerel Allkin Bond powers: Time & Force
 
 ### Duric - Blood

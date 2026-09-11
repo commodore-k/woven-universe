@@ -8,4 +8,15 @@ This [Weave Aspect](Weave%20Aspect.md) was woven into the [Terrum Weave](Terrum.
 
 The Allkin [Cerus](Cerus.md) later bonded himself to this Weave Aspect with a [Weave Cord](Weave%20Cords.md).
 
-## Power/Majik
+## Aspect
+
+Imbues the ability for all things in have Kinematics applied to it in the Weave this Aspect is apart of.
+
+## Allkin Weave Cord Use
+
+- Can create/update/destroy Kinematic properties for anything within the Terrum Weave
+- Can directly apply force to anything within the Terrum Weave.
+
+## Terrum [Majik](Majik.md) Use
+
+- Can directly apply force to anything within the Terrum Weave.
